@@ -1,0 +1,15 @@
+# Đổi dataset chỉ cần sửa file này
+
+# # ── CUBS Tech ──────────────────────────────────────────────────
+# dataset_dir:   "/work/cuc.buithi/cubs_tri/DATASET_CUBS_tech"
+# image_subdir:  "images"
+# profile_subdir: "LIMA-Profiles/Manual-A1"
+# output_dir:    null          # null = <dataset_dir>/MASKS
+# ext:           ".tiff"
+
+# ── CUBS 2021 (clin) — bỏ comment để dùng ─────────────────────
+dataset_dir:   "/work/cuc.buithi/cubs_tri/DATASET for Carotid Ultrasound Boundary Study (CUBS) an open multi-center analysis of computerized intima-media thickness measurement systems and their clinical impact"
+image_subdir:  "IMAGES"
+profile_subdir: "SEGMENTATIONS/Manual-A1"
+output_dir:    null
+ext:           ".tiff"
